@@ -1,2 +1,2 @@
 # InjecaodeDependencias
-Uma injeção da class rrepository na class servicesclientes como forma de registrar os clientes na base de dados
+Uma injeção da classe repository na clases servicesclientes como forma de registrar os clientes na base de dados
